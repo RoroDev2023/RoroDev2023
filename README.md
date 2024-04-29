@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RoroDev2023, a student at Illinois Tech majoring in CS and minoring in Financial Economics
+- 👋 Hi, I’m @RoroDev2023, a student at University of Massachusetts double majoring in CS and Economics
 - 👀 I’m interested in AI, Machine Learning, Product Design, and Business
 - 🤝 I’m looking to collaborate on ambitious projects focused on AI and ML
 - 📫 How to reach me:
